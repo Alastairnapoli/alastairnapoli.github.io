@@ -15,7 +15,7 @@
 
     <style type="text/css" class="silex-style"></style>
     <script type="text/javascript" class="silex-script"></script>
-    <style class="silex-inline-styles" type="text/css">.body-initial {background-color: rgba(255,255,255,1); position: static;}@media only screen and (max-width: 480px) {}</style>
+    <style class="silex-inline-styles" type="text/css">.body-initial {background-color: rgba(255,255,255,1); position: static;}.silex-id-1600898720239-0 {width: 100px; height: 100px; position: absolute; top: 360px; left: 747px;}.silex-id-1600898767858-1 {width: 100px; min-height: 100px; background-color: rgb(255, 255, 255); position: absolute; top: 337px; left: 534px; background-image: url(Ambulance.png);}@media only screen and (max-width: 480px) {}</style>
     <title></title>
     
 
@@ -52,4 +52,4 @@
 
 
 
-</body></html>
+<div data-silex-type="image-element" class="editable-style image-element silex-id-1600898720239-0 page-page-1 paged-element" data-silex-id="silex-id-1600898720239-0" style="" data-silex-href="http://www.ebay.co.uk/itm/254279213985"><img src="Ambulance.png"></div><div data-silex-type="container-element" class="editable-style container-element silex-id-1600898767858-1 page-page-1 paged-element" data-silex-id="silex-id-1600898767858-1" style=""></div></body></html>
